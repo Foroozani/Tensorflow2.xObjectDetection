@@ -90,5 +90,7 @@ The `object_detection_tutorial_mod.ipynb` will run fine.
 ---
 ## Credits 
 Source code (https://github.com/tensorflow/models)
+
 Installation (https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
+
 Installation (https://www.tensorflow.org/install) 
