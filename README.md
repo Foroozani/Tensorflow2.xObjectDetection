@@ -39,8 +39,8 @@ Then extract all the files from `model-master.zip`. Then copy `research` folder 
 
 ```bash 
 (tf2.3) user@username:~/test/model-master$
-(tf2.3) user@username:~/test$scp -r model-master/research .
-(tf2.3) user@username:~/test$rm -r model-master   # you can delet this folder 
+(tf2.3) user@username:~/test$scp -r model-master/research . #cp research to test folder
+(tf2.3) user@username:~/test$rm -r model-master.zip   # you can delet this folder 
 (tf2.3) user@username:~/test$cd research 
 (tf2.3) user@username:~/test/research$cp object_detection/colab_tutorials/object_detection_tutorial.ipynb . #copy notebook file to research folder 
 ```
