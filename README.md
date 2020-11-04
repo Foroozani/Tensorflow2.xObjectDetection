@@ -1,8 +1,8 @@
 
-# TensorFlow 2 Object Detection API
+# TensorFlow 2 Object Detection API on ubuntu 18.04
 [![TensorFlow 2.2](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0) [![Documentation Status](https://readthedocs.org/projects/tensorflow-object-detection-api-tutorial/badge/?version=latest)](http://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/?badge=latest)
 
-Set up and running Tensorflow's object detection API
+## Set up and running TensorFlow  API
 
 ---
 
