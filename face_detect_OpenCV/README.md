@@ -5,6 +5,8 @@ To install OpenCV on Ubuntu OS [visit this page](https://www.youtube.com/watch?v
 
 Download and unzip opencv repo [opencv](https://github.com/opencv/opencv.git). Pre-trained dataset can be found "*opencv-master/data/haarcascades*". You can copy/paste files into your working directory (attached). 
 
+![](https://github.com/Foroozani/Tensorflow2.xObjectDetection/blob/main/image/face_detection.png)
+
 Additional packages installed
 ```bash 
  sudo apt-get install python3.8-dev python3-numpy libtbb2 libtbb-dev   # changed  
