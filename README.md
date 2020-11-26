@@ -1,6 +1,16 @@
 
 # TensorFlow 2 Object Detection API on ubuntu 18.04
 [![TensorFlow 2.2](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0) [![Documentation Status](https://readthedocs.org/projects/tensorflow-object-detection-api-tutorial/badge/?version=latest)](http://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/?badge=latest)
+[![Python 3.6+](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![PyPI Version](https://img.shields.io/pypi/v/imageio.svg)](https://pypi.python.org/pypi/imageio/)
+[![Documentation Status](https://readthedocs.org/projects/imageio/badge/?version=latest)](https://imageio.readthedocs.io)
+[![PyPi Download stats](http://pepy.tech/badge/imageio)](http://pepy.tech/project/imageio)
+[![](https://img.shields.io/badge/torchvision-v0.1.6-green)](https://pypi.org/project/torchvision/0.1.6/)
+[![](https://img.shields.io/badge/opencv-v4.5.0-blue)](https://opencv.org/opencv-4-5-0/)
+
+
+
+
 
 ## Set up and running TensorFlow  API
 
