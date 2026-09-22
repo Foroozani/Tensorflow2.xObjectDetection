@@ -14,6 +14,7 @@
   <img width="460" height="300" src="https://github.com/Foroozani/ComputerVision/blob/main/image/output_car2_1.gif">
 </p>
 
+Personal data
 
 ## Set up and running TensorFlow  API
 
